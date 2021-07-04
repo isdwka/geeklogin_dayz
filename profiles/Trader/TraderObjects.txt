@@ -1,0 +1,233 @@
+// ------------------------------------------------------ Trader Markers -------------------------------------------------------
+
+// NewKumyrna:
+
+<TraderMarker> 			0
+<TraderMarkerPosition>	8232.24, 	290.394, 	5980.93
+<TraderMarkerSafezone>	1
+
+<TraderMarker> 			1
+<TraderMarkerPosition>	8210.59, 	291.329, 	5973.67
+<TraderMarkerSafezone>	1
+
+<TraderMarker> 			2
+<TraderMarkerPosition>	8222.41, 	291.209, 	5961.09
+<TraderMarkerSafezone>	1
+
+<TraderMarker> 			3
+<TraderMarkerPosition>	8223.29, 	291.209, 	5963.45
+<TraderMarkerSafezone>	1
+
+<TraderMarker> 			4
+<TraderMarkerPosition>	8190.15, 	291.081, 	6003.14
+<TraderMarkerSafezone>	45
+
+<TraderMarker> 			5
+<TraderMarkerPosition>	8181.86, 	291.170, 	5971.29
+<TraderMarkerSafezone>	1
+<VehicleSpawn>			8187.53, 	292, 		5968.20
+<VehicleSpawnOri>		22,			0,			0
+
+<TraderMarker> 			6
+<TraderMarkerPosition>	8232.04, 	294.825, 	5994.20
+<TraderMarkerSafezone>	40
+<VehicleSpawn>			8187.53, 	292, 		5968.20
+<VehicleSpawnOri>		22,			0,			0
+
+<TraderMarker> 			7
+<TraderMarkerPosition>	8159.81, 	322.690, 	5978.94
+<TraderMarkerSafezone>	55
+<VehicleSpawn>			8187.53, 	293, 		5968.20
+<VehicleSpawnOri>		22,			0,			0
+
+
+//West Trade
+
+<TraderMarker> 			8
+<TraderMarkerPosition>	402.50, 	277.698, 	8104.08
+<TraderMarkerSafezone>	15
+
+<TraderMarker> 			9
+<TraderMarkerPosition>	402.37, 	278.745, 	8097.30
+<TraderMarkerSafezone>	15
+
+<TraderMarker> 			10
+<TraderMarkerPosition>	406.40, 	278.745, 	8094.98
+<TraderMarkerSafezone>	15
+
+
+//ParkingAdmin
+//<VehicleSpawn>			8222.47,	472.100,	9039.45
+
+<TraderMarker> 			11
+<TraderMarkerPosition>	8216.61, 	469.724, 	9041.70
+<TraderMarkerSafezone>	1
+<VehicleSpawn>			8231.65,	472.100,	9030.53
+<VehicleSpawnOri>		61.99,		0,			0
+
+//North Trade
+
+<TraderMarker> 			12
+<TraderMarkerPosition>	4720.20, 	474.848, 	15170.61
+<TraderMarkerSafezone>	100
+
+<TraderMarker> 			13
+<TraderMarkerPosition>	4691.09, 	474.930, 	15172.91
+<TraderMarkerSafezone>	100
+
+<TraderMarker> 			14
+<TraderMarkerPosition>	4702.51, 	474.883, 	15198.501
+<TraderMarkerSafezone>	100
+
+<TraderMarker> 			15
+<TraderMarkerPosition>	4710.95, 	474.046, 	15154.99
+<TraderMarkerSafezone>	100
+
+<TraderMarker> 			16
+<TraderMarkerPosition>	4723.32, 	474.046, 	15179.63
+<TraderMarkerSafezone>	100
+
+//Spawn
+
+<TraderMarker> 			17
+<TraderMarkerPosition>	14055.88, 	56.529, 	2910.31
+<TraderMarkerSafezone>	200
+
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+
+//ParkingAdmin
+
+<Object> 			bldr_metalcase_01
+<ObjectPosition>	8216.61, 	469.724, 	9041.70
+<ObjectOrientation>	15,			0,			0
+<ObjectAttachment> 	NPC_DUMMY
+
+// NewKumyrna:
+
+<Object> 			SurvivorM_Niki
+<ObjectPosition>	8232.24, 	290.394, 	5980.93
+<ObjectOrientation>	-68,		0,			0
+<ObjectAttachment>	Vodka
+<ObjectAttachment>	SurgicalMask
+<ObjectAttachment>	Lennon_glasses_yellow_mung
+<ObjectAttachment>	CowboyHat_Brown
+<ObjectAttachment>	Shirt_RedCheck
+<ObjectAttachment>	Jeans_Brown
+<ObjectAttachment>	MilitaryBoots_Redpunk
+
+
+<Object> 			bldr_cashier
+<ObjectPosition>	8210.59, 	291.329, 	5973.67
+<ObjectOrientation>	112, 		0,			0
+<ObjectAttachment> 	NPC_DUMMY
+
+
+<Object> 			bldr_cashier
+<ObjectPosition>	8222.41, 	291.209, 	5961.09
+<ObjectOrientation>	-68,		0,			0
+<ObjectAttachment> 	NPC_DUMMY
+
+<Object> 			bldr_cashier
+<ObjectPosition>	8223.29, 	291.209, 	5963.45
+<ObjectOrientation>	-68,		0,			0
+<ObjectAttachment> 	NPC_DUMMY
+
+<Object> 			SurvivorM_Taiki
+<ObjectPosition>	8190.15, 	291.081, 	6003.14
+<ObjectOrientation>	-114.18,	0,			0
+<ObjectAttachment>	SurgicalMask
+<ObjectAttachment>	AviatorGlasses
+<ObjectAttachment>	ZmijovkaCap_Blue
+<ObjectAttachment>	Winter_Parka_Green
+<ObjectAttachment>	Jeans_BlueDark
+<ObjectAttachment>	Sneakers_White
+
+<Object> 			bldr_cashier
+<ObjectPosition>	8181.86, 	291.170, 	5971.29
+<ObjectOrientation>	-68,		0,			0
+<ObjectAttachment> 	NPC_DUMMY
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	8232.04, 	294.825, 	5994.20
+<ObjectOrientation> -99, 		0,			0
+<ObjectAttachment>	SurgicalMask
+<ObjectAttachment>	PersonalRadio
+<ObjectAttachment>	MSFC_RMRAutumn_PCU5Jacket
+<ObjectAttachment>	MSFC_RMRAutumn_Pants
+<ObjectAttachment>	TTSKOBoots
+
+<Object> 			bldr_cashier
+<ObjectPosition>	8159.81, 	322.690, 	5978.94
+<ObjectOrientation>	-157.99, 	0,			0
+<ObjectAttachment> 	NPC_DUMMY
+
+<Object>			BarrelHoles_Red
+<ObjectPosition>	8191.04, 	290.380, 	5998.50
+<ObjectOrientation>	0,			0,			0
+
+<Object>			BarrelHoles_Green
+<ObjectPosition>	8221.53, 	294.817, 	6000.20
+<ObjectOrientation>	0,			0,			0
+
+<Object>			BarrelHoles_Blue
+<ObjectPosition>	8220.65, 	290.400, 	5978.30
+<ObjectOrientation>	0,			0,			0
+
+
+// North Trade
+
+<Object> 			bldr_cashier
+<ObjectPosition>	4691.09, 	474.930, 	15172.91
+<ObjectOrientation>	-70.0, 		0,			0			
+<ObjectAttachment> 	NPC_DUMMY
+
+<Object> 			bldr_cashier
+<ObjectPosition>	4720.20, 	474.848, 	15170.61
+<ObjectOrientation>	112.0,		0,			0
+<ObjectAttachment> 	NPC_DUMMY
+
+<Object> 			MSFC_MapObject_WeaponTrader
+<ObjectPosition>	4724.06, 	475.43, 	15179.84
+<ObjectOrientation>	111,		0,			0
+<ObjectAttachment> 	NPC_DUMMY
+
+<Object> 			MSFC_MapObject_WeaponWorkBench
+<ObjectPosition>	4709.20, 		475.594, 	15154
+<ObjectOrientation>	-158.999985, 	0, 			0
+<ObjectAttachment> 	NPC_DUMMY
+
+<Object> 			bldr_cashier
+<ObjectPosition>	4702.51, 	474.883, 	15198.501
+<ObjectOrientation>	21, 		0,			0			
+<ObjectAttachment> 	NPC_DUMMY
+
+<Object>			BarrelHoles_Green
+<ObjectPosition>	4697.08, 	473.991, 	15186.40
+<ObjectOrientation>	0,			0,			0
+
+// West Trade
+
+<Object> 			SurvivorM_Quinn		
+<ObjectPosition>	402.50, 	277.698, 	8104.08	
+<ObjectOrientation>	119.999992, 0,			0		
+<ObjectAttachment>	SurgicalMask
+<ObjectAttachment>	HuntingJacket_Autumn
+<ObjectAttachment>	HunterPants_Autumn
+<ObjectAttachment>	Wellies_Green
+
+<Object> 			bldr_cashier
+<ObjectPosition>	402.37, 		278.745, 	8097.30
+<ObjectOrientation>	28.999990,		0,			0
+<ObjectAttachment> 	NPC_DUMMY
+
+<Object> 			bldr_cashier
+<ObjectPosition>	406.40, 		278.745, 	8094.98
+<ObjectOrientation>	28.999990,		0,			0
+<ObjectAttachment> 	NPC_DUMMY
+
+<Object>			BarrelHoles_Green
+<ObjectPosition>	398.79, 	277.636, 	8101.56
+<ObjectOrientation>	0,			0,			0
+
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!

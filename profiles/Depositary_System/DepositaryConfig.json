@@ -1,0 +1,98 @@
+{
+    "CooldownForGarage": 5.0,
+    "MaxVehiclesToStore": 10,
+    "CostsToParkInVehicle": 0,
+    "CostsToParkOutVehicle": 0,
+    "CostsToBuyVehicleKey": 2000,
+    "CostsToRepairVehicle": 20000,
+    "ServerRestartPeriods": -1,
+    "CanPayWithBankAccount": 0,
+    "KeepInventory": 1,
+    "IsLoggingActiv": 1,
+    "IsGarageGlobal": 1,
+    "ShowParkinParkOutPos": 0,
+    "SaveDamage": 1,
+    "NPCConfig": [
+        {
+            "GarageID": 1,
+            "NPCCharacterName": "bldr_sign_parking",
+            "NPCAttachments": [],
+            "NPCSpawnPosX": 8184.34,
+            "NPCSpawnPosY": 291.32,
+            "NPCSpawnPosZ": 5973.83,
+            "NPCSpawnYaw": -157.99,
+            "NPCSpawnPitch": 0,
+            "NPCSpawnRoll": 0,
+            "CARSpawnPosX": 8187.53,
+            "CARSpawnPosY": 293,
+            "CARSpawnPosZ": 5968.20,
+            "CARSpawnYaw": 22,
+            "CARSpawnPitch": 0,
+            "CARSpawnRoll": 0
+        },
+        {
+            "GarageID": 2,
+            "NPCCharacterName": "bldr_sign_parking",
+            "NPCAttachments": [],
+            "NPCSpawnPosX": 2680.80,
+            "NPCSpawnPosY": 211.30,
+            "NPCSpawnPosZ": 5576.22,
+            "NPCSpawnYaw": 94,
+            "NPCSpawnPitch": 0.0,
+            "NPCSpawnRoll": 0.0,
+            "CARSpawnPosX": 2686.08,
+            "CARSpawnPosY": 210.77,
+            "CARSpawnPosZ": 5577.58,
+            "CARSpawnYaw": 97,
+            "CARSpawnPitch": 0.0,
+            "CARSpawnRoll": 0.0
+        },
+        {
+            "GarageID": 3,
+            "NPCCharacterName": "bldr_sign_parking",
+            "NPCAttachments": [],
+            "NPCSpawnPosX": 11874.27,
+            "NPCSpawnPosY": 140.93,
+            "NPCSpawnPosZ": 12488.26,
+            "NPCSpawnYaw": -62,
+            "NPCSpawnPitch": 0.0,
+            "NPCSpawnRoll": 0.0,
+            "CARSpawnPosX": 11872.62,
+            "CARSpawnPosY": 140.00,
+            "CARSpawnPosZ": 12480.97,
+            "CARSpawnYaw": 27,
+            "CARSpawnPitch": 0.0,
+            "CARSpawnRoll": 0.0
+        }
+    ],
+    "CurrencyConfig": [
+        {
+            "Currency_Name": "MoneyRuble1",
+            "Currency_Amount": 1
+        },
+        {
+            "Currency_Name": "MoneyRuble5",
+            "Currency_Amount": 5
+        },
+        {
+            "Currency_Name": "MoneyRuble10",
+            "Currency_Amount": 10
+        },
+        {
+            "Currency_Name": "MoneyRuble25",
+            "Currency_Amount": 25
+        },
+        {
+            "Currency_Name": "MoneyRuble50",
+            "Currency_Amount": 50
+        },
+        {
+            "Currency_Name": "MoneyRuble100",
+            "Currency_Amount": 100
+        }
+    ],
+    "ObjectWhiteList": [
+        "Example Object",
+        "Another example Object"
+    ]
+}

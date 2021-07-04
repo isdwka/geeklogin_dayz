@@ -1,0 +1,25 @@
+{
+    "VehicleName": "UAZMR_Blue2",
+    "DisplayName": "УАЗ 469",
+    "Parts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "UAZ_doors_Driver_Blue2",
+        "UAZ_Doors_coDriver_Blue2",
+        "UAZ_doors_cargo1_Blue2",
+        "UAZ_doors_cargo2_Blue2",
+        "UAZ_doors_hood_Blue2",
+        "UAZ_doors_trunk_Blue2",
+        "UAZ_doors_trunkup2_Blue2",
+        "UAZ_Wheel",
+        "UAZ_Wheel",
+        "UAZ_Wheel",
+        "UAZ_Wheel",
+        "Roadflare",
+        "Wrench",
+        "HeadlightH7_Box"
+    ]
+}

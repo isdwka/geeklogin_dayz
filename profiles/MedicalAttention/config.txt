@@ -1,0 +1,344 @@
+Tiredness								= 1
+TireTime (minutes)						= 240
+EyeClosingPoint  (percent)				= 20
+TextReports								= 1
+EnergizingDrinkGain (percent)			= 25
+EnergizingDrinkClass					= MSFC_BankaSTALKEREnergy
+EnergizingDrinkClass					= MSFC_BankaSPRUNKextreme
+
+SleepingBagClass 						= PartyTent
+SleepingBagClass 						= PartyTent_Blue
+SleepingBagClass 						= PartyTent_Brown
+SleepingBagClass 						= PartyTent_Lunapark
+SleepingBagClass 						= MediumTent
+SleepingBagClass 						= MediumTent_Green
+SleepingBagClass 						= MediumTent_Orange
+SleepingBagClass 						= CarTent
+SleepingBagClass 						= LargeTent
+SleepingBagClass 						= Msp_SleepingBag_Green
+SleepingBagClass 						= Msp_SleepingBag_Blue
+SleepingBagClass 						= Msp_SleepingBag_LimeGreen
+SleepingBagClass 						= Msp_SleepingBag_Orange
+SleepingBagClass 						= Msp_SleepingBag_Purple
+SleepingBagClass 						= Msp_SleepingBag_Red
+SleepingBagClass 						= Msp_Mattress_Blue
+SleepingBagClass 						= Msp_Mattress_Green
+SleepingBagClass 						= Msp_Mattress_Pink
+SleepingBagClass 						= Msp_Mattress_Yellow
+
+SleepingDOF								= 1
+
+TestBloodSelf							= 1
+TestBloodTarget							= 1
+TestBloodToxin							= 1
+
+AlcoholicDrinkClass						= MSFC_BankaJackSmithWhiskey
+AlcoholicDrinkClass						= MSFC_BankaBeerFranziskanerWeissbier
+AlcoholicDrinkClass						= MSFC_BankaBeerHeineken
+AlcoholicDrinkClass						= MSFC_BankaBeerPivasProvodnik
+AlcoholicDrinkClass						= MSFC_BankaBeerAmsterdam
+AlcoholicDrinkClass						= DisinfectantAlcohol = 3.5
+
+AlcoholicLiquid							= MSFC_BeerZhigulevskoe = 1
+AlcoholicLiquid							= Vodka = 2.5
+
+ZoneType = Harmless
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 1691.45 0 13781.50
+ZoneRadius = 2000
+ZoneMsgIn = ВНИМАНИЕ: ВЫ ВОШЛИ В PVP ЗОНУ!
+
+ZoneType = Harmless
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 4535.07 0 14275.17
+ZoneRadius = 1700
+ZoneMsgIn = ВНИМАНИЕ: ВЫ ВОШЛИ В PVP ЗОНУ!
+
+ZoneType = Harmless
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 7021.62 0 14187.13
+ZoneRadius = 1600
+ZoneMsgIn = ВНИМАНИЕ: ВЫ ВОШЛИ В PVP ЗОНУ!
+
+ZoneType = Harmless
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 9176.87 0 15164.80
+ZoneRadius = 1600
+ZoneMsgIn = ВНИМАНИЕ: ВЫ ВОШЛИ В PVP ЗОНУ!
+
+ZoneType = Harmless
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 10944.86 0 15001.31
+ZoneRadius = 850
+ZoneMsgIn = ВНИМАНИЕ: ВЫ ВОШЛИ В PVP ЗОНУ!
+
+ZoneType = Harmless
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 11700.25 0 14944.11
+ZoneRadius = 800
+ZoneMsgIn = ВНИМАНИЕ: ВЫ ВОШЛИ В PVP ЗОНУ!
+
+ZoneType = Harmless
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 12700.53 0 14870.98
+ZoneRadius = 800
+ZoneMsgIn = ВНИМАНИЕ: ВЫ ВОШЛИ В PVP ЗОНУ!
+
+ZoneType = Harmless
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 14459.34 0 14662.98
+ZoneRadius = 1200
+ZoneMsgIn = ВНИМАНИЕ: ВЫ ВОШЛИ В PVP ЗОНУ!
+
+ZoneType = Harmless
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 13241.18 0 14119.99
+ZoneRadius = 300
+ZoneMsgIn = ВНИМАНИЕ: ВЫ ВОШЛИ В PVP ЗОНУ!
+
+ZoneType = Harmless
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 8636.87 0 13222.15
+ZoneRadius = 600
+ZoneMsgIn = ВНИМАНИЕ: ВЫ ВОШЛИ В PVP ЗОНУ!
+
+ZoneType = Harmless
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 7963.65 0 12999.02
+ZoneRadius = 600
+ZoneMsgIn = ВНИМАНИЕ: ВЫ ВОШЛИ В PVP ЗОНУ!
+
+ZoneType = Harmless
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 5669.24 0 12951.87
+ZoneRadius = 690
+ZoneMsgIn = ВНИМАНИЕ: ВЫ ВОШЛИ В PVP ЗОНУ!
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 331 0 9368
+ZoneRadius = 80
+ZoneMsgIn = ВНИМАНИЕ! ВЫ ВОШЛИ НА ЗАРАЖЁННУЮ ТЕРРИТОРИЮ
+ZoneMsgOut = ВАМ ПОВЕЗЛО, ВЫ ПОКИНУЛИ ЗАРАЖЁННУЮ ТЕРРИТОРИЮ ЖИВЫМ (ПОКА)
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 4601.77 0 10315.21
+ZoneRadius = 1000
+ZoneMsgIn = ВНИМАНИЕ! ВЫ ВОШЛИ НА ЗАРАЖЁННУЮ ТЕРРИТОРИЮ
+ZoneMsgOut = ВАМ ПОВЕЗЛО, ВЫ ПОКИНУЛИ ЗАРАЖЁННУЮ ТЕРРИТОРИЮ ЖИВЫМ (ПОКА)
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 3999.01 0 11788.61
+ZoneRadius = 200
+ZoneMsgIn = ВНИМАНИЕ! ВЫ ВОШЛИ НА ЗАРАЖЁННУЮ ТЕРРИТОРИЮ
+ZoneMsgOut = ВАМ ПОВЕЗЛО, ВЫ ПОКИНУЛИ ЗАРАЖЁННУЮ ТЕРРИТОРИЮ ЖИВЫМ (ПОКА)
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 3703.95 0 5983.98
+ZoneRadius = 50
+ZoneMsgIn = ВНИМАНИЕ! ВЫ ВОШЛИ НА ЗАРАЖЁННУЮ ТЕРРИТОРИЮ
+ZoneMsgOut = ВАМ ПОВЕЗЛО, ВЫ ПОКИНУЛИ ЗАРАЖЁННУЮ ТЕРРИТОРИЮ ЖИВЫМ (ПОКА)
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 756.26 0 1877.81
+ZoneRadius = 40
+ZoneMsgIn = ВНИМАНИЕ! ВЫ ВОШЛИ НА ЗАРАЖЁННУЮ ТЕРРИТОРИЮ
+ZoneMsgOut = ВАМ ПОВЕЗЛО, ВЫ ПОКИНУЛИ ЗАРАЖЁННУЮ ТЕРРИТОРИЮ ЖИВЫМ (ПОКА)
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 1154.86 0 7237.66
+ZoneRadius = 50
+ZoneMsgIn = ВНИМАНИЕ! ВЫ ВОШЛИ НА ЗАРАЖЁННУЮ ТЕРРИТОРИЮ
+ZoneMsgOut = ВАМ ПОВЕЗЛО, ВЫ ПОКИНУЛИ ЗАРАЖЁННУЮ ТЕРРИТОРИЮ ЖИВЫМ (ПОКА)
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 2525.17 0 5134.75
+ZoneRadius = 100
+ZoneMsgIn = ВНИМАНИЕ! ВЫ ВОШЛИ НА ЗАРАЖЁННУЮ ТЕРРИТОРИЮ
+ZoneMsgOut = ВАМ ПОВЕЗЛО, ВЫ ПОКИНУЛИ ЗАРАЖЁННУЮ ТЕРРИТОРИЮ ЖИВЫМ (ПОКА)
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 10952.63 0 13392.29
+ZoneRadius = 60
+ZoneMsgIn = ВНИМАНИЕ! ВЫ ВОШЛИ НА ЗАРАЖЁННУЮ ТЕРРИТОРИЮ
+ZoneMsgOut = ВАМ ПОВЕЗЛО, ВЫ ПОКИНУЛИ ЗАРАЖЁННУЮ ТЕРРИТОРИЮ ЖИВЫМ (ПОКА)
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 6319.16 0 7810.78
+ZoneRadius = 60
+ZoneMsgIn = ВНИМАНИЕ! ВЫ ВОШЛИ НА ЗАРАЖЁННУЮ ТЕРРИТОРИЮ
+ZoneMsgOut = ВАМ ПОВЕЗЛО, ВЫ ПОКИНУЛИ ЗАРАЖЁННУЮ ТЕРРИТОРИЮ ЖИВЫМ (ПОКА)
+
+ZoneType = Biohazard
+ZoneChance (percent) = 100
+ZoneCenter (X Y Z) = 4527.89 0 8297.37
+ZoneRadius = 100
+ZoneMsgIn = ВНИМАНИЕ! ВЫ ВОШЛИ НА ЗАРАЖЁННУЮ ТЕРРИТОРИЮ
+ZoneMsgOut = ВАМ ПОВЕЗЛО, ВЫ ПОКИНУЛИ ЗАРАЖЁННУЮ ТЕРРИТОРИЮ ЖИВЫМ (ПОКА)
+
+ToxinAccumulationTimeMin = 10
+ToxinAccumulationTimeMax = 60
+
+ProtectionSuit = AthleticShoes_Blue = 100
+ProtectionSuit = AthleticShoes_Grey = 100
+ProtectionSuit = AthleticShoes_Brown = 100
+ProtectionSuit = AthleticShoes_Black = 100
+ProtectionSuit = AthleticShoes_Green = 100
+ProtectionSuit = JoggingShoes_Violet = 100
+ProtectionSuit = JoggingShoes_Red = 100
+ProtectionSuit = JoggingShoes_Blue = 100
+ProtectionSuit = JoggingShoes_White = 100
+ProtectionSuit = JoggingShoes_Black = 100
+ProtectionSuit = Sneakers_Red = 100
+ProtectionSuit = Sneakers_White = 100
+ProtectionSuit = Sneakers_Gray = 100
+ProtectionSuit = Sneakers_Black = 100
+ProtectionSuit = Sneakers_Green = 100
+ProtectionSuit = DressShoes_White = 100
+ProtectionSuit = DressShoes_Brown = 100
+ProtectionSuit = DressShoes_Black = 100
+ProtectionSuit = DressShoes_Beige = 100
+ProtectionSuit = DressShoes_Sunburst = 100
+ProtectionSuit = HikingBootsLow_Blue = 100
+ProtectionSuit = HikingBootsLow_Grey = 100
+ProtectionSuit = HikingBootsLow_Beige = 100
+ProtectionSuit = HikingBootsLow_Black = 100
+ProtectionSuit = WorkingBoots_Yellow = 100
+ProtectionSuit = WorkingBoots_Grey = 100
+ProtectionSuit = WorkingBoots_Beige = 100		
+ProtectionSuit = WorkingBoots_Brown = 100		
+ProtectionSuit = WorkingBoots_Green = 100
+ProtectionSuit = HikingBoots_Brown = 100
+ProtectionSuit = HikingBoots_Black = 100
+ProtectionSuit = CombatBoots_Grey = 100		
+ProtectionSuit = CombatBoots_Beige = 100		
+ProtectionSuit = CombatBoots_Brown = 100		
+ProtectionSuit = CombatBoots_Black = 100		
+ProtectionSuit = CombatBoots_Green = 100		
+ProtectionSuit = JungleBoots_Beige = 100		
+ProtectionSuit = JungleBoots_Brown = 100		
+ProtectionSuit = JungleBoots_Black = 100		
+ProtectionSuit = JungleBoots_Olive = 100		
+ProtectionSuit = JungleBoots_Green = 100		
+ProtectionSuit = Wellies_Grey = 100			
+ProtectionSuit = Wellies_Brown = 100			
+ProtectionSuit = Wellies_Black = 100
+ProtectionSuit = Wellies_Green = 100
+ProtectionSuit = High_Knee_Sneakers = 100
+ProtectionSuit = High_Knee_Sneakers_Black = 100
+ProtectionSuit = TTSKOBoots = 100
+ProtectionSuit = MilitaryBoots_Redpunk = 100
+ProtectionSuit = MilitaryBoots_Bluerock = 100
+ProtectionSuit = MilitaryBoots_Beige = 100
+ProtectionSuit = MilitaryBoots_Brown = 100
+ProtectionSuit = MilitaryBoots_Black = 100
+ProtectionSuit = MSFC_EMR_Boots = 100
+ProtectionSuit = MSFC_BlackCamoBoots = 100
+ProtectionSuit = MSFC_Boots_MulticamSnow = 100						
+ProtectionSuit = MSFC_Boots_Lowa_MulticamSnow = 100					
+ProtectionSuit = MSFC_Boots_Trekking_MulticamSnow = 100				
+ProtectionSuit = MSFC_Boots_Multicam = 100						
+ProtectionSuit = MSFC_Boots_Lowa_Multicam = 100					
+ProtectionSuit = MSFC_Boots_Trekking_Multicam = 100				
+ProtectionSuit = MSFC_Boots_MulticamBlack = 100						
+ProtectionSuit = MSFC_Boots_Lowa_MulticamBlack = 100					
+ProtectionSuit = MSFC_Boots_Trekking_MulticamBlack = 100				
+ProtectionSuit = MSFC_Boots_MulticamTropic = 100						
+ProtectionSuit = MSFC_Boots_Lowa_MulticamTropic = 100				
+ProtectionSuit = MSFC_Boots_Trekking_MulticamTropic = 100				
+ProtectionSuit = MSFC_Boots_ATACSAU = 100						
+ProtectionSuit = MSFC_Boots_Lowa_ATACSAU = 100					
+ProtectionSuit = MSFC_Boots_Trekking_ATACSAU = 100				
+ProtectionSuit = MSFC_Boots_ATACSFG = 100						
+ProtectionSuit = MSFC_Boots_Lowa_ATACSFG = 100					
+ProtectionSuit = MSFC_Boots_Trekking_ATACSFG = 100				
+ProtectionSuit = MSFC_Boots_SURPAT = 100						
+ProtectionSuit = MSFC_Boots_Lowa_SURPAT = 100					
+ProtectionSuit = MSFC_Boots_Trekking_SURPAT = 100			
+ProtectionSuit = NBCHoodGray = 100
+ProtectionSuit = NBCGlovesGray = 100
+ProtectionSuit = NBCJacketGray = 100
+ProtectionSuit = NBCPantsGray = 100
+ProtectionSuit = NBCBootsGray = 100
+
+ProtectionSuit = GP5GasMask = 100 = 1
+ProtectionSuit = GasMask = 100 = 1
+ProtectionSuit = AirborneMask = 100 = 1
+ProtectionSuit = SurgicalMask = 10 = 1
+ProtectionSuit = BandanaMask_PolkaPattern = 10 = 1
+ProtectionSuit = BandanaMask_RedPattern = 10 = 1	
+ProtectionSuit = BandanaMask_BlackPattern = 10 = 1
+ProtectionSuit = BandanaMask_GreenPattern = 10 = 1
+ProtectionSuit = BandanaMask_CamoPattern = 10 = 1
+ProtectionSuit = NioshFaceMask = 10 = 1			
+ProtectionSuit = WeldingMask = 10 = 1	
+ProtectionSuit = MotoHelmet_Red = 5 = 1
+ProtectionSuit = MotoHelmet_Blue = 5 = 1
+ProtectionSuit = MotoHelmet_White = 5 = 1
+ProtectionSuit = MotoHelmet_Lime = 5 = 1
+ProtectionSuit = MotoHelmet_Grey = 5 = 1
+ProtectionSuit = MotoHelmet_Black = 5 = 1
+ProtectionSuit = MotoHelmet_Green = 5 = 1
+ProtectionSuit = DarkMotoHelmet_Red = 5 = 1
+ProtectionSuit = DarkMotoHelmet_Blue = 5 = 1
+ProtectionSuit = DarkMotoHelmet_White = 5 = 1
+ProtectionSuit = DarkMotoHelmet_Lime = 5 = 1
+ProtectionSuit = DarkMotoHelmet_Grey = 5 = 1
+ProtectionSuit = DarkMotoHelmet_Black = 5 = 1
+ProtectionSuit = DarkMotoHelmet_Green = 5 = 1
+ProtectionSuit = GreatHelm = 5 = 1
+ProtectionSuit = BurlapSackCover = 5 = 1
+ProtectionSuit = DarkMotoHelmet_Black = 5 = 1
+ProtectionSuit = DarkMotoHelmet_Grey = 5 = 1
+ProtectionSuit = DarkMotoHelmet_Green = 5 = 1
+ProtectionSuit = DarkMotoHelmet_Lime = 5 = 1
+ProtectionSuit = DarkMotoHelmet_Blue = 5 = 1
+ProtectionSuit = DarkMotoHelmet_Red = 5 = 1
+ProtectionSuit = DarkMotoHelmet_White = 5 = 1
+ProtectionSuit = MotoHelmet_Black = 5 = 1
+ProtectionSuit = MotoHelmet_Grey = 5 = 1
+ProtectionSuit = MotoHelmet_Green = 5 = 1
+ProtectionSuit = MotoHelmet_Lime = 5 = 1
+ProtectionSuit = MotoHelmet_Blue = 5 = 1
+ProtectionSuit = MotoHelmet_Red = 5 = 1
+ProtectionSuit = MotoHelmet_White = 5 = 1
+ProtectionSuit = WeldingMask = 5 = 1
+ProtectionSuit = GreatHelm = 5 = 1
+ProtectionSuit = Bandana_CamoPattern = 5 = 1
+ProtectionSuit = Bandana_RedPattern = 5 = 1
+ProtectionSuit = Bandana_BlackPattern = 5 = 1
+ProtectionSuit = Bandana_PolkaPattern = 5 = 1
+ProtectionSuit = Bandana_Greenpattern = 5 = 1
+ProtectionSuit = Bandana_Blue = 5 = 1
+ProtectionSuit = Bandana_Pink = 5 = 1
+ProtectionSuit = Bandana_Yellow = 5 = 1
+ProtectionSuit = NioshFaceMask = 5 = 1
+ProtectionSuit = BalaclavaMask_Black = 5 = 1
+ProtectionSuit = BalaclavaMask_Blackskull = 5 = 1
+ProtectionSuit = BalaclavaMask_Beige = 5 = 1
+ProtectionSuit = BalaclavaMask_Blue = 5 = 1
+ProtectionSuit = BalaclavaMask_Green = 5 = 1
+ProtectionSuit = BalaclavaMask_Pink = 5 = 1
+ProtectionSuit = BalaclavaMask_White = 5 = 1
+ProtectionSuit = GP5GasMask = 5 = 1
+ProtectionSuit = AirborneMask = 5 = 1
+ProtectionSuit = MouthRag = 5 = 1
+ProtectionSuit = SurgicalMask = 5 = 1
+ProtectionSuit = GasMask = 5 = 1
+ProtectionSuit = BandanaMask_PolkaPattern = 5 = 1
+ProtectionSuit = BandanaMask_RedPattern = 5 = 1
+ProtectionSuit = BandanaMask_BlackPattern = 5 = 1
+ProtectionSuit = BandanaMask_GreenPattern = 5 = 1
+ProtectionSuit = BandanaMask_CamoPattern = 5 = 1
+ProtectionSuit = Shemagh_Facemask_Brown = 5 = 1
+ProtectionSuit = Shemagh_Facemask_Green = 5 = 1
+ProtectionSuit = Shemagh_Facemask_Red = 5 = 1
+ProtectionSuit = Shemagh_Facemask_White = 5 = 1

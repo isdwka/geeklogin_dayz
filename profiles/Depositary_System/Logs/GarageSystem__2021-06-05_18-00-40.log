@@ -1,0 +1,16 @@
+2021:06:05:18:00:40 | [GarageLogger] startet! You can disable that in servers config json!
+2021:06:05:18:00:50 | [GarageSystem] ->  bldr_sign_parking Spawned on: <8184.339844, 291.320007, 5973.830078>
+2021:06:05:18:00:50 | [GarageSystem] ->  bldr_sign_parking NPC DUMMY CLASS FOUND!
+2021:06:05:18:00:50 | [GarageSystem] ->  Hologram Spawn Disabled skipping!
+2021:06:05:18:00:50 | [GarageSystem] ->  bldr_sign_parking Spawned on: <2680.800049, 211.300003, 5576.220215>
+2021:06:05:18:00:50 | [GarageSystem] ->  bldr_sign_parking NPC DUMMY CLASS FOUND!
+2021:06:05:18:00:50 | [GarageSystem] ->  Hologram Spawn Disabled skipping!
+2021:06:05:18:00:50 | [GarageSystem] ->  bldr_sign_parking Spawned on: <11874.269531, 140.929993, 12488.259766>
+2021:06:05:18:00:50 | [GarageSystem] ->  bldr_sign_parking NPC DUMMY CLASS FOUND!
+2021:06:05:18:00:50 | [GarageSystem] ->  Hologram Spawn Disabled skipping!
+2021:06:05:18:00:50 | [ServerManager] -> Restart Periods of server are : -1 Info: to Disable the parkin function befor an restart go to config and change ServerRestartPeriods to -1! 
+ Server Will Lock Parking in: 0 Minutes!
+2021:06:05:18:00:50 | [ServerManager] -> Parkin Function will be disabled 5 Minutes befor!
+2021:06:05:18:39:10 | Player: Alex39 with steam64ID< 76561198162738791>  Parked out :CrSk_Land_Rover_Defender_110_Green on position: <2679.709961, 210.442749, 5576.612305>
+2021:06:05:18:42:03 | Player: Alex39 with steam64ID< 76561198162738791> Parked in : CrSk_Land_Rover_Defender_110_Green 74 items stored to DB! on position: <2680.316650, 210.379776, 5576.152832>
+2021:06:05:19:04:22 | Player: Alex39 with steam64ID< 76561198162738791>  Parked out :CrSk_Land_Rover_Defender_110_Green on position: <2680.151611, 210.444656, 5576.756348>
